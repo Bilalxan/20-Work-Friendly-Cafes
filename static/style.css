@@ -1,0 +1,20 @@
+body {
+    margin-bottom: 0;
+}
+
+.nav-link {
+    font-size: 2rem;
+}
+
+.nav-item {
+    padding-left: 12rem;
+}
+
+.btn-info:hover {
+    transition: 1s ease-in-out;
+    transform: scale(1.5);
+}
+
+label, h1 {
+    color: white;
+}
